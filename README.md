@@ -1,11 +1,9 @@
 # antd-sidebar-menu-template
-
-使用 antd 與 antd pro 實現側邊欄選單模板(尚無多國語系設定)
+使用 antd 與 antd pro 並結合 vite 實現側邊欄選單模板(尚無多國語系設定)
 
 ![demo](./docs/assets/demo-home.png)
 
 ## 📔 使用技術
-
 - Presentation
   - React v18
   - Ant Design
