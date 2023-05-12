@@ -1,0 +1,6 @@
+/dist
+/node_modules
+/src/.vit
+/report
+
+package-lock.json

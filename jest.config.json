@@ -1,0 +1,17 @@
+{
+  "bail": 1,
+  "verbose": true,
+  "preset": "jest-puppeteer",
+  "testRegex": "./*\\.spec\\.js$",
+  "reporters": [
+    "default",
+    [
+      "jest-html-reporters",
+      {
+        "publicPath": "report",
+        "filename": "report.html",
+        "openReport": true
+      }
+    ]
+  ]
+}
