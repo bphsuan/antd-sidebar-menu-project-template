@@ -3,7 +3,7 @@
 
 ![demo](./docs/assets/demo-home.png)
 
-## 📔 使用技術
+## 📔 技術與工具
 - Presentation
   - React v18
   - Ant Design
